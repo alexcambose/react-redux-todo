@@ -1,0 +1,24 @@
+.flex{
+  display: flex;
+}
+.flex.jcc{
+    justify-content: center;
+}
+.flex.aic{
+    align-items: center;
+}
+.flex > div{
+    display: block !important;
+    /*width:auto !important;*/
+}
+.maxLengthLabel{
+    color: rgba(0,0,0,.4);
+}
+.ptext{
+    font-family: "Roboto", serif;
+    color: rgba(0,0,0,.5);
+}
+.ptext a{
+    color: cornflowerblue;
+    text-decoration: none;
+}
