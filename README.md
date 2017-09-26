@@ -1,5 +1,5 @@
 # react-redux-todo
-Redux based todo app build with React
+Redux based todo app build with [React](https://facebook.github.io/react/)
 ## Installation
 `cd react-redux-todo && npm install`
 ## Usage
